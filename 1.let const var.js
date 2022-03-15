@@ -29,7 +29,7 @@ console.log(birthYear);//print---2000
 
 //---------------------------------------------------------------
 //example of var
-var Myname=`priya`
+var Myname=`maya`
 console.log(Myname);
 Myname=`jiya`
 console.log(Myname);
